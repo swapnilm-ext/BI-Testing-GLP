@@ -1,0 +1,9 @@
+P_ID,Name,ClinicName,State,City,ZipCode,Contact,Gender,DOB,NextOfKin
+201,John Smith,Mayo Clinic $#@,TN,Idaho Falls,27230,1-318-605-9547,Male,"September 21st, 2001","Burt, Curran N."
+202,Gaurav George,Avera Weskota Memorial Medical Center,KS,Danbury,,1-352-559-2362,Male,"August 26th, 1997","Stuart, Alan B."
+203,Sam Frank ,McLean's clinic,MT,Moscow,67128,1-909-866-0280,,"October 22nd, 2004","Logan, Timon O."
+204,Robert Poortman,Mayo Clinic,CT,Nashville,69524,1-173-455-1484,Male,,"Foley, Uriah D."
+205,Eliza Dcosta,Mayo Clinic,NY,Vegas,12355,1-568-293-0103,Female,"June 6th, 1999","Irwin, Orli B."
+206,Sonia Paul,McLean's clinic,,,14533,1-173-455-1433,1234,"March 17th, 1995","Logan, Timon O."
+207,Jimmy George,Mayo Clinic,NY,Vegas,363984,1-173-455-1484,Male,"March 17th, 1992","Foley, Uriah D."
+208,Senorita White,ABC Clinic,CT,Nashville,67202,1-568-293-0103,Female,"June 6th, 2005","Irwin, Orli B."

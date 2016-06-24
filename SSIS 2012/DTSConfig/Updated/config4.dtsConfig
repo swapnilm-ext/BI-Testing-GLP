@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+  <DTSConfigurationHeading>
+    <DTSConfigurationFileInfo GeneratedBy="MUMBAI1\cttraining" GeneratedFromPackageName="Package" GeneratedFromPackageID="{1D8EEE43-1F0A-4EDD-B94B-12B2F3FD080D}" GeneratedDate="2/10/2016 4:31:53 PM"/>
+  </DTSConfigurationHeading>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[DataMart_BILab].Properties[Password]" ValueType="String">
+    <ConfiguredValue>password_123</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_DB].Properties[Value]" ValueType="String">
+    <ConfiguredValue>DataMart_BILab</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_FilePath].Properties[Value]" ValueType="String">
+    <ConfiguredValue>C:\DTSConfig\patient_reg.csv</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_Password].Properties[Value]" ValueType="String">
+    <ConfiguredValue>password_123</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_Server].Properties[Value]" ValueType="String">
+    <ConfiguredValue>.</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_User].Properties[Value]" ValueType="String">
+    <ConfiguredValue>sa</ConfiguredValue>
+  </Configuration>
+</DTSConfiguration>

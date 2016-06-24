@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+   <DTSConfigurationHeading>
+     <DTSConfigurationFileInfo GeneratedBy="MUMBAI1\cttraining" GeneratedFromPackageName="DimPatientLoad" GeneratedFromPackageID="{E468D84C-6402-495B-A096-3C24D61E6E4A}" GeneratedDate="24-12-2015 03:59:18"/></DTSConfigurationHeading>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_DB].Properties[Value]" ValueType="String">
+    <ConfiguredValue>DataMart_BILab</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_FilePath].Properties[Value]" ValueType="String">
+    <ConfiguredValue>C:\DTSConfig\patient_reg.csv
+    </ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_Password].Properties[Value]" ValueType="String">
+    <ConfiguredValue>password_123</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_Server].Properties[Value]" ValueType="String">
+      <ConfiguredValue>.</ConfiguredValue>
+    </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Variables[User::Var_User].Properties[Value]" ValueType="String">
+    <ConfiguredValue>sa
+    </ConfiguredValue>
+  </Configuration>
+</DTSConfiguration>
